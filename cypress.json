@@ -1,0 +1,9 @@
+{
+  "defaultCommandTimeout": 60000,
+  "supportFile": "cypress/support/index.ts",
+  "reporter": "cypress-multi-reporters",
+  "chromeWebSecurity": false,
+  "reporterOptions": {
+    "configFile": "reporterOpts.json"
+  }
+}
